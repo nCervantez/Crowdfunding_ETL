@@ -7,11 +7,11 @@ Project Members:
 
 - Cory Selzer - Creating a contacts CSV using list comprehension.
 
-
 - Induja Mohandas - Category and Subcategory CSV using numpy arrays.
 
+- Nathaniel Cervantez - SQL database Schema and Data Loading.
 
-- Nathaniel Cervantez - SQL database Schema and Campaign dataframe.
+- Shail Desai - Campaign dataframe and CSV file.
 
 ## Project Goals
 
